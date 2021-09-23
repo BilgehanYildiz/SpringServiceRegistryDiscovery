@@ -1,0 +1,1 @@
+eureka servera ek olarak zipler içinde consumer ve provider servislerine ulaşabilirsiniz
